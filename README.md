@@ -6,14 +6,14 @@ Proyek ini merupakan implementasi teknik **Kecerdasan Buatan** untuk memprediksi
 
 ---
 
-## 👥 Anggota Kelompok
+## 👥 Anggota Kelompok 4
 1. **23.11.5437** | Tor Fatah Onggara Lubis
 2. **23.11.5435** | Mukti Cahyo Pamungkas
 3. **23.11.5410** | Attila Arya R Patadjenu
 
 ---
 
-## 🏗️ Arsitektur Model (Detailed)
+## 🏗️ Arsitektur Model
 Model dibangun menggunakan framework **TensorFlow/Keras** dengan rincian lapisan sebagai berikut:
 
 * **Input Layer**: Data *sequence* dengan panjang 60 hari.
